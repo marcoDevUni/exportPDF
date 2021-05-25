@@ -7,4 +7,4 @@ a bash application for multiple exporting xournal files in pdf
 ./exportPDF.bash DIRINPUT/ DIROUTPUT/
 ```
 
-the applications are not my property all rights reserved
+the applications used are not my property. all rights reserved
